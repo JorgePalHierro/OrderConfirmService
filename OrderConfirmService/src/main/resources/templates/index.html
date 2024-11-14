@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Página Principal</title>
+<link rel="stylesheet"
+	href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+body {
+	background-color: #f8f9fa;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	margin-top: 30px;
+}
+
+.form-group label {
+	font-weight: bold;
+	color: #495057;
+}
+
+.form-control {
+	padding: 12px;
+	background-color: #f4f6f7;
+	border: 1px solid #ced4da;
+	border-radius: 6px;
+	box-sizing: border-box;
+}
+
+.btn-filter {
+	background-color: #007bff;
+	color: white;
+	border: none;
+	padding: 12px 20px;
+	font-size: 16px;
+	border-radius: 6px;
+	cursor: pointer;
+	width: 100%;
+}
+
+.btn-filter:hover {
+	background-color: #0056b3;
+}
+
+.table th, .table td {
+	text-align: center;
+}
+
+.table th {
+	background-color: #007bff;
+	color: white;
+}
+
+#store {
+	height: 85%; /* O usa un ancho específico, por ejemplo, 300px */
+}
+
+#date {
+	height: 100%; /* O usa un ancho específico, por ejemplo, 300px */
+}
+</style>
+</head>
+<body>
+	<div class="container">
+		<h1 class="text-center mb-4">Filtro de Datos</h1>
+
+		<!-- Filtro de búsqueda -->
+		<form action="/filtrar" method="post">
+			<div class="row mb-4">
+				<div class="col-md-6">
+					<div class="form-group">
+						<label for="store">Tienda:</label> <select id="store"
+							name="tienda" class="form-control">
+							<option value="">Seleccionar Tienda</option>
+							<!-- Usando Thymeleaf para iterar sobre la lista de tiendas -->
+							<th:block th:each="tienda : ${tiendas}">
+								<option th:value="${tienda}" th:text="${tienda}"></option>
+							</th:block>
+						</select>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="form-group">
+						<label for="date">Fecha:</label> <input type="date" id="date"
+							name="fecha" class="form-control">
+					</div>
+				</div>
+			</div>
+
+			<!-- Botón de filtro -->
+			<div class="mb-4">
+				<button class="btn-filter" type="submit">Filtrar</button>
+			</div>
+		</form>
+
+		<!-- Tabla de resultados -->
+		<table class="table table-bordered">
+			<thead>
+				<tr>
+					<th>Tienda</th>
+					<th>Terminal</th>
+					<th>Transacción</th>
+					<th>Fecha</th>
+					<th>Orden</th>
+					<th>Tipo</th>
+					<th>Vendedor</th>
+					<th>Importe</th>
+					<th>Esquema</th>
+					<th>Estado</th>
+				</tr>
+			</thead>
+			<tbody>
+				<!-- Usar Thymeleaf para iterar sobre las transacciones -->
+				<th:block th:each="transaccion : ${transacciones}">
+					<tr>
+						<td th:text="${transaccion.tienda}"></td>
+						<td th:text="${transaccion.terminal}"></td>
+						<td th:text="${transaccion.transaccion}"></td>
+						<td th:text="${transaccion.fecha}"></td>
+						<td th:text="${transaccion.numeroOrden}"></td>
+						<td th:text="${transaccion.tipo}"></td>
+						<td th:text="${transaccion.vendedor}"></td>
+						<td th:text="${transaccion.importe}"></td>
+						<td th:text="${transaccion.esquema}"></td>
+						<td th:text="${transaccion.codigoRespuesta}"></td>
+					</tr>
+				</th:block>
+			</tbody>
+		</table>
+	</div>
+
+	<script>
+		// Establecer la fecha del día actual en el campo de fecha
+		document.addEventListener('DOMContentLoaded', function() {
+			const dateInput = document.getElementById('date');
+			const today = new Date().toISOString().split('T')[0]; // Obtener la fecha en formato YYYY-MM-DD
+			dateInput.value = today; // Establecer la fecha en el campo
+		});
+	</script>
+</body>
+</html>
