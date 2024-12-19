@@ -9,13 +9,14 @@ import jakarta.persistence.PostLoad;
 
 @Entity
 public class Posusuarios {
-    
+	 @Id
     private String CNOMUSUA;
     private String CPASSWOR;
     private String CPERFILE;
     private String CNUMTIEN;
+   
     private String RNOMEMP;
-    @Id
+ 
     private String RNUMEMP;
     private String RPASSANT1;
     private String RPASSANT2;

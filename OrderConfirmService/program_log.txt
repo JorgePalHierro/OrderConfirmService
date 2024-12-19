@@ -1,0 +1,173 @@
+[2024-11-21 11:59:57] [TransaccionController]: Inicio del solicitud
+[2024-11-21 11:59:57] [TransaccionController]: Estado actual leído: 1
+[2024-11-21 11:59:57] [TransaccionController]: Datos orden:TransaccionDTO{tienda='5555', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null'}
+[2024-12-05 12:52:56] [TransaccionController]: Inicio del solicitud
+[2024-12-05 12:52:56] [TransaccionController]: Estado actual leído: 1
+[2024-12-05 12:52:56] [TransaccionController]: Datos orden:TransaccionDTO{tienda='5555', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null'}
+[2024-12-05 14:04:27] [TransaccionController]: Inicio del solicitud
+[2024-12-05 14:04:27] [TransaccionController]: Estado actual leído: 1
+[2024-12-05 14:04:27] [TransaccionController]: Datos orden:TransaccionDTO{tienda='5555', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null'}
+[2024-12-05 14:11:01] [TransaccionController]: Inicio del solicitud
+[2024-12-05 14:11:01] [TransaccionController]: Estado actual leído: 1
+[2024-12-05 14:11:01] [TransaccionController]: Datos orden:TransaccionDTO{tienda='5555', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null'}
+[2024-12-06 09:37:12] [TransaccionController]: Inicio del solicitud
+[2024-12-06 09:37:12] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 09:37:12] [TransaccionController]: Datos orden:TransaccionDTO{tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 10:21:00] [TransaccionController]: Inicio del solicitud
+[2024-12-06 10:21:00] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 10:21:00] [TransaccionController]: Datos orden:TransaccionDTO{tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 10:47:27] [TransaccionController]: Inicio del solicitud
+[2024-12-06 10:47:27] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 10:47:27] [TransaccionController]: Datos orden:TransaccionDTO{tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 10:49:01] [TransaccionController]: Inicio del solicitud
+[2024-12-06 10:49:01] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 10:49:01] [TransaccionController]: Datos orden:TransaccionDTO{tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 11:04:08] [TransaccionController]: Inicio del solicitud
+[2024-12-06 11:04:08] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 11:04:08] [TransaccionController]: Datos orden:TransaccionDTO{tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 11:10:35] [TransaccionController]: Inicio del solicitud
+[2024-12-06 11:10:35] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 11:10:35] [TransaccionController]: Datos orden:TransaccionDTO{tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 11:12:16] [TransaccionController]: Inicio del solicitud
+[2024-12-06 11:12:16] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 11:12:16] [TransaccionController]: Datos orden:TransaccionDTO{tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 11:14:09] [TransaccionController]: Inicio del solicitud
+[2024-12-06 11:14:09] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 11:14:09] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 11:17:42] [TransaccionController]: Inicio del solicitud
+[2024-12-06 11:17:42] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 11:17:42] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 11:17:59] [TransaccionController]: Inicio del solicitud
+[2024-12-06 11:17:59] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 11:17:59] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 11:35:44] [TransaccionController]: Inicio del solicitud
+[2024-12-06 11:35:44] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 11:35:44] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:22:38] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:22:38] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:22:38] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:23:18] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:23:18] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:23:18] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:24:44] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:24:44] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:24:44] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:32:07] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:32:07] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:32:07] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009570658', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:33:29] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:33:29] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:33:29] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009554311', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:35:35] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:35:35] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:35:35] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4008197970', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:36:02] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:36:02] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:36:02] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4008198177', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:38:39] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:38:39] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:38:39] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009695213', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:39:17] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:39:17] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:39:17] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009695213', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:40:32] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:40:32] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:40:32] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009695213', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:44:14] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:44:14] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:44:14] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009695213', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:52:56] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:52:56] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:52:56] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009695213', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01'}
+[2024-12-06 15:54:47] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:54:47] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:54:48] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009695213', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-06 15:55:18] [TransaccionController]: Inicio del solicitud
+[2024-12-06 15:55:18] [TransaccionController]: Estado actual leído: 1
+[2024-12-06 15:55:18] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009695194', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-08 19:54:28] [TransaccionController]: Inicio del solicitud
+[2024-12-08 19:54:28] [TransaccionController]: Estado actual leído: 1
+[2024-12-08 19:54:28] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009695194', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-08 19:55:33] [TransaccionController]: Inicio del solicitud
+[2024-12-08 19:55:33] [TransaccionController]: Estado actual leído: 1
+[2024-12-08 19:55:33] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009191372', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-08 19:57:19] [TransaccionController]: Inicio del solicitud
+[2024-12-08 19:57:19] [TransaccionController]: Estado actual leído: 1
+[2024-12-08 19:57:19] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009191372', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-08 20:08:12] [TransaccionController]: Inicio del solicitud
+[2024-12-08 20:08:12] [TransaccionController]: Estado actual leído: 1
+[2024-12-08 20:08:12] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009191372', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-08 20:09:13] [TransaccionController]: Inicio del solicitud
+[2024-12-08 20:09:13] [TransaccionController]: Estado actual leído: 1
+[2024-12-08 20:09:13] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009191372', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-08 20:12:23] [TransaccionController]: Inicio del solicitud
+[2024-12-08 20:12:23] [TransaccionController]: Estado actual leído: 1
+[2024-12-08 20:12:23] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009191372', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-08 20:12:50] [TransaccionController]: Inicio del solicitud
+[2024-12-08 20:12:50] [TransaccionController]: Estado actual leído: 1
+[2024-12-08 20:12:50] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009191372', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-09 10:39:36] [TransaccionController]: Inicio del solicitud
+[2024-12-09 10:39:36] [TransaccionController]: Estado actual leído: 1
+[2024-12-09 10:39:36] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1111', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009712982', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-09 12:44:53] [TransaccionController]: Inicio del solicitud
+[2024-12-09 12:44:53] [TransaccionController]: Estado actual leído: 1
+[2024-12-09 12:44:53] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-09 12:46:19] [TransaccionController]: Inicio del solicitud
+[2024-12-09 12:46:19] [TransaccionController]: Estado actual leído: 1
+[2024-12-09 12:46:19] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-09 12:51:33] [TransaccionController]: Inicio del solicitud
+[2024-12-09 12:51:33] [TransaccionController]: Estado actual leído: 1
+[2024-12-09 12:51:33] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-09 16:13:48] [TransaccionController]: Inicio del solicitud
+[2024-12-09 16:14:40] [TransaccionController]: Inicio del solicitud
+[2024-12-09 16:14:40] [TransaccionController]: Estado actual leído: 1
+[2024-12-09 16:14:40] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-09 16:18:12] [TransaccionController]: Inicio del solicitud
+[2024-12-09 16:18:12] [TransaccionController]: Estado actual leído: 1
+[2024-12-09 16:18:12] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-09 16:23:12] [TransaccionController]: Inicio del solicitud
+[2024-12-09 16:23:12] [TransaccionController]: Estado actual leído: 1
+[2024-12-09 16:23:12] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-09 16:25:00] [TransaccionController]: Inicio del solicitud
+[2024-12-09 16:25:00] [TransaccionController]: Estado actual leído: 1
+[2024-12-09 16:25:00] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 09:25:52] [TransaccionController]: Inicio del solicitud
+[2024-12-10 09:25:52] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 09:25:52] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009191372', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 09:26:29] [TransaccionController]: Inicio del solicitud
+[2024-12-10 09:26:29] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 09:26:29] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 10:07:41] [TransaccionController]: Inicio del solicitud
+[2024-12-10 10:07:41] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 10:07:41] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='40097230', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 12:14:51] [TransaccionController]: Inicio del solicitud
+[2024-12-10 12:14:51] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 12:14:51] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='40097230', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 12:17:27] [TransaccionController]: Inicio del solicitud
+[2024-12-10 12:17:27] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 12:17:27] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='40097230', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 12:21:00] [TransaccionController]: Inicio del solicitud
+[2024-12-10 12:21:00] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 12:21:00] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='40097230', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 12:28:25] [TransaccionController]: Inicio del solicitud
+[2024-12-10 12:28:25] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 12:28:25] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='40097230', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 12:31:56] [TransaccionController]: Inicio del solicitud
+[2024-12-10 12:31:56] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 12:31:56] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='40097230', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 12:32:15] [TransaccionController]: Inicio del solicitud
+[2024-12-10 12:32:15] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 12:32:15] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009723400', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 12:32:59] [TransaccionController]: Inicio del solicitud
+[2024-12-10 12:32:59] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 12:32:59] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009191372', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 12:54:27] [TransaccionController]: Inicio del solicitud
+[2024-12-10 12:54:27] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 12:54:27] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='40091912', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 13:05:07] [TransaccionController]: Inicio del solicitud
+[2024-12-10 13:05:07] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 13:05:07] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='40091912', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-10 14:34:25] [TransaccionController]: Inicio del solicitud
+[2024-12-10 14:34:25] [TransaccionController]: Estado actual leído: 1
+[2024-12-10 14:34:25] [TransaccionController]: Datos orden:TransaccionDTO{consecutivo='null'tienda='1006', terminal='140', transaccion='3000', fecha='201124', fecha Completa='null', numeroOrden='4009516304', tipo='8', numeroTarjeta='6620010268738636', importe='29606.15', vendedor='47502', esquema='299', numeroAutorizacion='820547', codigoRespuesta='001', instrumento='null', codigo='01', confrimacion='null'}
+[2024-12-12 11:15:07] [TransaccionController]: Inicio del solicitud

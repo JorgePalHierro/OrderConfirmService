@@ -1,7 +1,11 @@
 package com.example.OrderConfirmService.modelos;
 
 public class RespuestaDTO {
-    private String estado;
+    public RespuestaDTO() {
+		super();
+	}
+
+	private String estado;
     private String descripcion;
 
     // Constructor

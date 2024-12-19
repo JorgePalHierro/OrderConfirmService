@@ -38,16 +38,19 @@ public class ApiService {
 	            } else {
 	                // Manejar otros errores de cliente
 	                System.err.println("Error de cliente: " + e.getStatusCode() + " - " + e.getMessage());
-	                throw new RuntimeException("Error al consultar la API: " + e.getMessage(), e);
+	               return "Error al consultar la API: " + e.getMessage();
 	            }
 	        } catch (HttpServerErrorException e) {
 	            // Maneja errores del servidor (5xx)
-	            System.err.println("Error de servidor: " + e.getStatusCode() + " - " + e.getMessage());
-	            throw new RuntimeException("Error del servidor: " + e.getMessage(), e);
+	        	 return "Error al consultar la API: " + e.getMessage();
+	         //   System.err.println("Error de servidor: " + e.getStatusCode() + " - " + e.getMessage());
+	         //   throw new RuntimeException("Error del servidor: " + e.getMessage(), e);
 	        } catch (Exception e) {
+	        	 return "Error al consultar la API: " + e.getMessage();
 	            // Maneja cualquier otra excepción
-	            System.err.println("Error general: " + e.getMessage());
-	            throw new RuntimeException("Error inesperado: " + e.getMessage(), e);
+	          //  System.err.println("Error general: " + e.getMessage());
+	          //  throw new RuntimeException("Error inesperado: " + e.getMessage(), e);
+	       
 	        }
 		
 		return response.getBody();

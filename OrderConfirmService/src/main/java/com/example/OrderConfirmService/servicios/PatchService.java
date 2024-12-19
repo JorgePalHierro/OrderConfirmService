@@ -28,7 +28,7 @@ public class PatchService {
 		this.okHttpClient = okHttpClient;
 	}
 
-	public String sendPatchRequest(TransaccionDTO transaccion) throws IOException {
+	public String sendPatchRequest(TransaccionDTO transaccion)  {
 		String url = "https://ph-bypass-pos-exp-api.us-w1.cloudhub.io/api/v1/orders/" + transaccion.getNumeroOrden()
 				+ "/payment-instruments/" + transaccion.getInstrumento();
 	
@@ -60,7 +60,7 @@ public class PatchService {
 					+ "\\\",\\\"responseDisplay\\\":\\\"TRANSACCION APROBADA\\\"}]\"\n" + "}";
 
 			RequestBody body = RequestBody.create(json, MediaType.parse("application/json; charset=utf-8"));
-			System.out.println("Json peticion:\n" + json );
+			
 			Request request = new Request.Builder().url(url).patch(body)
 					.addHeader("client_id", "87cd348c017447b9991fc1eb4e0cccd4")
 					.addHeader("client_secret", "de22aa5e10514445Ac9eDa16475E5bFf").build();
@@ -73,8 +73,11 @@ public class PatchService {
 					throw new IOException("Failed : HTTP error code : " + response.code() + ", reason: "
 							+ response.message() + ", details: " + errorResponse);
 				}
+			}catch (IOException e){
+				
+				return e.getMessage().replace("Failed : HTTP error code : 400, reason: Bad Request, details:", "");
 			}
-
+			
 		
 					
 		

@@ -1,9 +1,37 @@
 package com.example.OrderConfirmService.modelos;
 
 public class TransaccionDTO {
+  
+
+	
+	
+	private String codigo;
+	private String tienda;
+    private String terminal;
+    private String transaccion;
+    private String fecha;
+    private String numeroOrden;
+    private String tipo;
+    private String numeroTarjeta;
+    private String importe;
+    private String vendedor;
+    private String esquema;
+    private String numeroAutorizacion;
+    private String codigoRespuesta;
+    private String instrumento;
+    private String confirmacion;
+    private String fechaCompleta;
+    private String consecutivo;
+    
+
+	
+    public TransaccionDTO() {
+  		super();
+  	}
+    
     public TransaccionDTO(String tienda, String terminal, String transaccion, String fecha, String numeroOrden,
 			String tipo, String numeroTarjeta, String importe, String vendedor, String esquema,
-			String numeroAutorizacion, String codigoRespuesta, String instrumento) {
+			String numeroAutorizacion, String codigoRespuesta, String instrumento, String confrimacion) {
 		super();
 		this.tienda = tienda;
 		this.terminal = terminal;
@@ -19,25 +47,6 @@ public class TransaccionDTO {
 		this.codigoRespuesta = codigoRespuesta;
 		this.instrumento = instrumento;
 	}
-
-	private String tienda;
-    private String terminal;
-    private String transaccion;
-    private String fecha;
-    private String numeroOrden;
-    private String tipo;
-    private String numeroTarjeta;
-    private String importe;
-    private String vendedor;
-    private String esquema;
-    private String numeroAutorizacion;
-    private String codigoRespuesta;
-    private String instrumento;
-
-    
-
-	
-
 	// Getters y setters
     public String getTienda() {
         return tienda;
@@ -141,5 +150,59 @@ public class TransaccionDTO {
 
     public void setInstrumento(String instrumento) {
         this.instrumento = instrumento;
+    }
+    
+    public String getConfirmacion() {
+        return confirmacion ;
+    }
+
+    public void setConfirmacion(String confirmacion) {
+        this.confirmacion = confirmacion;
+    }
+    
+    public String getFechaCompleta() {
+        return fechaCompleta ;
+    }
+
+    public void setFechaCompleta(String fechaCompleta) {
+        this.fechaCompleta = fechaCompleta;
+    }
+    
+    public String getCodigo() {
+        return codigo ;
+    }
+
+    public void setCodigo(String codigo) {
+        this.codigo = codigo;
+    }
+    
+    public String getConsecutivo() {
+        return consecutivo ;
+    }
+
+    public void setConsecutivo(String consecutivo) {
+        this.consecutivo = consecutivo;
+    }
+    @Override
+    public String toString() {
+        return "TransaccionDTO{" +
+        		"consecutivo='" + consecutivo + '\'' +
+                "tienda='" + tienda + '\'' +
+                ", terminal='" + terminal + '\'' +
+                ", transaccion='" + transaccion + '\'' +
+                ", fecha='" + fecha + '\'' +
+                ", fecha Completa='" + fechaCompleta + '\'' +
+                ", numeroOrden='" + numeroOrden + '\'' +
+                ", tipo='" + tipo + '\'' +
+                ", numeroTarjeta='" + numeroTarjeta + '\'' +
+                ", importe='" + importe + '\'' +
+                ", vendedor='" + vendedor + '\'' +
+                ", esquema='" + esquema + '\'' +
+                ", numeroAutorizacion='" + numeroAutorizacion + '\'' +
+                ", codigoRespuesta='" + codigoRespuesta + '\'' +
+                ", instrumento='" + instrumento + '\'' +
+                ", codigo='" + codigo + '\'' +                
+                ", confrimacion='" + confirmacion + '\'' +
+                '}';
     }
 }
