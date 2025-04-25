@@ -72,7 +72,7 @@ public class ConfirmacionOrden {
 
 	public Timestamp getFechaCompleta() {
 		return fechacompleta;
-	}
+	} 
 
 	public void setFechaCompleta(Timestamp timestamp) {
 		this.fechacompleta = timestamp;

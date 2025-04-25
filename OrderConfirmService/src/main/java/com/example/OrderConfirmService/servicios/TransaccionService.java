@@ -21,7 +21,7 @@ import jakarta.transaction.Transactional;
 public class TransaccionService {
 
 	@Autowired
-	private ApiService apiService;
+	private ConsultaService apiService;
 	@Autowired
 	private ConfirmacionOrdenRepository confirmacionOrdenRepository;
 

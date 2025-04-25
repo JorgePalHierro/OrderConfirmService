@@ -10,7 +10,7 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 
 @Service
-public class ApiService {
+public class ConsultaService {
 
 	private static final String URL = "https://ph-bypass-pos-exp-api.us-w1.cloudhub.io/api/v1/orders/";
 	private static final String CLIENT_ID = "87cd348c017447b9991fc1eb4e0cccd4";
